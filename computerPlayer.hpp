@@ -2,7 +2,7 @@
 //  computerPlayer.hpp
 //  Connect4New
 //
-//  Skeleton created by Stijn Slebos on 19-01-19.
+//  Skeleton created by Stijn Slebos and Sanne Metten on 19-01-19.
 //
 //
 
